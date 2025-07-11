@@ -1,14 +1,20 @@
 
 # Github de Oscar Garin
 
-# Página personal de Github: 
+# Página personal de Github:
 https://oscargarine.github.io/
 
 
-# Proyecto: "Cafetería Nanacao"
-Creador: Oscar Garin E.
+# Proyecto:
+"Cafetería Nanacao"
 
-# Clase: "Testing (supertest) con JEST"
+# Repo:
+https://github.com/oscargarine/CafeteriaNanacao
+
+
+# Clase:
+"Testing con JEST"
+
 
 # Descripción
 La Cafetería Nanacao está abriendo una nueva sucursal en el centro de la ciudad después de tener un gran éxito en su local principal.
