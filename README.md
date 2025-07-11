@@ -33,7 +33,7 @@ En este desafío deberás crear tests para probar las diferentes rutas existente
 4. Prueba que la ruta PUT /cafes devuelve un status code 400 si intentas actualizar un café enviando un id en los parámetros que sea diferente al id dentro del payload.
 
 
-## Tech Stack
+# Tech Stack
 Node.js, Javascript, Jest, Babel
 
 # Para ejecutarlo:
